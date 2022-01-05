@@ -1,0 +1,12 @@
+h1{background-color: black;
+color: white;}
+h1 span {color: cyan;}
+h2{color: white;
+background-color: purple;
+text-align: center;
+font-style: italic;}
+h3{color: purple;
+background-color: lightskyblue;
+text-decoration: underline;
+text-align: right;}
+h1,h2,h3{font-family: sans-serif;}
